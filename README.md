@@ -1,3 +1,6 @@
+## EXPERIMENT NO.: 10
+## DATE : 18.05.2024
+
 # Implementation of Multivariate Linear Regression
 ## Aim
 To write a python program to implement multivariate linear regression and predict the output.
